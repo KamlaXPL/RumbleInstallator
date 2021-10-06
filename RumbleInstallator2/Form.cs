@@ -10,7 +10,6 @@ namespace RumbleInstallator2
     {
         public RumbleInstaller()
         {
-           
             BackgroundImage = RumbleInstallator.Properties.Resources.background;
             InitializeComponent();
         }
